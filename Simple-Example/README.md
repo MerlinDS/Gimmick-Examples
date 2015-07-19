@@ -4,7 +4,7 @@ Very simple application that show basic usage of the Gimmick framework.
 This app create heap of entities and moves them in viewport.
 Also you can control pause/resume of application.
 
-[Builded application]()
+[Swf file](http://merlinds.com/content/images/2015/gimmick/Simple-Example.swf)
 
 ##Structure
 
