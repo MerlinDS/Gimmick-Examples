@@ -1,5 +1,5 @@
 # Gimmick-Examples
-Examples built with the Gimmick framework
+Examples built with the [Gimmick framework](https://github.com/MerlinDS/Gimmick)
 
 * [Simple-Example](http://merlinds.com/content/images/2015/gimmick/Simple-Example.swf) - 
 Very simple application that show basic usage of the Gimmick framework.

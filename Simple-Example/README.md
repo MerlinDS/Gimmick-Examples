@@ -1,6 +1,6 @@
 #Simple Example
 
-Very simple application that show basic usage of the Gimmick framework.
+Very simple application that show basic usage of the [Gimmick framework](https://github.com/MerlinDS/Gimmick).
 This app create heap of entities and moves them in viewport.
 Also you can control pause/resume of application.
 
