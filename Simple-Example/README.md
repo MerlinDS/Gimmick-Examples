@@ -12,17 +12,17 @@ Application has two packages: [components](https://github.com/MerlinDS/Gimmick-E
 and [systems](https://github.com/MerlinDS/Gimmick-Examples/tree/master/Simple-Example/src/systems/).
 
 ###Components
-* [Destination](https://github.com/MerlinDS/Gimmick-Examples/tree/master/Simple-Example/src/components/Destination.as)
- - component that contains coordinates of entity destination. 
+* [Destination](https://github.com/MerlinDS/Gimmick-Examples/tree/master/Simple-Example/src/components/Destination.as) - 
+component that contains coordinates of entity destination. 
 New coordinates of entity's destination will be calculated randomly by MovementSystem
-* [Display](https://github.com/MerlinDS/Gimmick-Examples/tree/master/Simple-Example/src/components/Display.as)
- - component that contains view of entity.
-* [Position](https://github.com/MerlinDS/Gimmick-Examples/tree/master/Simple-Example/src/components/Position.as)
- - component that contains current coordinates of entity (position in viewport).
-* [Velocity](https://github.com/MerlinDS/Gimmick-Examples/tree/master/Simple-Example/src/components/Velocity.as)
- - component that contains velocity vector of entity.
-* [Label](https://github.com/MerlinDS/Gimmick-Examples/tree/master/Simple-Example/src/components/Label.as)
- - component that contains text field of entity (used by button)
+* [Display](https://github.com/MerlinDS/Gimmick-Examples/tree/master/Simple-Example/src/components/Display.as) - 
+component that contains view of entity.
+* [Position](https://github.com/MerlinDS/Gimmick-Examples/tree/master/Simple-Example/src/components/Position.as) - 
+component that contains current coordinates of entity (position in viewport).
+* [Velocity](https://github.com/MerlinDS/Gimmick-Examples/tree/master/Simple-Example/src/components/Velocity.as) - 
+component that contains velocity vector of entity.
+* [Label](https://github.com/MerlinDS/Gimmick-Examples/tree/master/Simple-Example/src/components/Label.as)- 
+component that contains text field of entity (used by button)
 
 ###Systems
 
